@@ -6,7 +6,9 @@
 ![Language](https://img.shields.io/badge/Language-C&C++-green)
 
 **Đồ án môn học:** Vi xử lý - Vi điều khiển (CE103.P24)
+
 **Trường:** Đại học Công nghệ Thông tin (UIT) - ĐHQG-HCM
+
 **Giảng viên hướng dẫn:** Trần Ngọc Đức
 
 ## 🔗 Tài liệu & Demo (Links)
