@@ -1,0 +1,16 @@
+../Core/Src/lcd_parallel.c:5:6:LCD_Parallel_Init	1
+../Core/Src/lcd_parallel.c:48:6:LCD_Parallel_GPIO_Init	1
+../Core/Src/lcd_parallel.c:75:6:LCD_Parallel_Clear	1
+../Core/Src/lcd_parallel.c:80:6:LCD_Parallel_SetCursor	3
+../Core/Src/lcd_parallel.c:91:6:LCD_Parallel_Print	2
+../Core/Src/lcd_parallel.c:97:6:LCD_Parallel_PrintChar	1
+../Core/Src/lcd_parallel.c:101:6:LCD_Parallel_CreateChar	2
+../Core/Src/lcd_parallel.c:109:6:LCD_Parallel_WriteCustomChar	1
+../Core/Src/lcd_parallel.c:113:6:LCD_Parallel_SendCommand	1
+../Core/Src/lcd_parallel.c:117:6:LCD_Parallel_SendData	1
+../Core/Src/lcd_parallel.c:121:6:LCD_Parallel_Send	1
+../Core/Src/lcd_parallel.c:132:6:LCD_Parallel_Write4Bits	1
+../Core/Src/lcd_parallel.c:143:6:LCD_Parallel_EnablePulse	3
+../Core/Src/lcd_parallel.c:156:6:LCD_Parallel_DisplayEffect	2
+../Core/Src/lcd_parallel.c:167:6:LCD_Parallel_DisplayStatus	2
+../Core/Src/lcd_parallel.c:181:6:LCD_Parallel_Test_Simple	2
